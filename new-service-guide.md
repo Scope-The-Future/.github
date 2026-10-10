@@ -42,7 +42,6 @@ cloud-platform/
         ├── app/
         │   ├── __init__.py       ← пустой файл
         │   └── main.py           ← код сервиса
-        ├── .dockerignore
         ├── Dockerfile
         └── requirements.txt
 ```
